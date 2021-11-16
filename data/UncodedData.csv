@@ -1,0 +1,290 @@
+﻿Student ID,Alex code,Eric code,Joseph code,Sean code,Katie code,Jenny code,,Agreement,Agreed answers,Resolved answers,2nd group resolved answers,final resolution,Comments,Statement
+137,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,"The average of her trials is 2.09s, and the error is 0.020. Her prediction doesn&#39;t fall within the range of error."
+138,average,0,dual,Dual,0,qual set,,FALSE,,,,,,The lowest data point is higher than the predicted period which means the mean is above the predicted and by looking at the data it seems to be the predicted value will be more than at least 2 standard deviations. 
+139,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,"Although the predicted value is correct, their data comes close to it."
+140,average,0,average,Average,0,average,,FALSE,,,,,,"The average of the data is much higher than 2.01, so it does not match."
+141,qual set,0,other,Qual Set,0,other,,FALSE,,,,,,It is close to 2.01 however it is not 2.01
+142,average,0,average,Average,0,average,,FALSE,,,,,,The average seems to be higher than their prediction
+145,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,The data is not accurate enough when compared to that measured by theory.
+146,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,there is a big difference with the data the research got and the number that was predicted by the student.
+147,percent error,0,percent error,Percent Error,0,percent error,,FALSE,,,,,,The difference between the accepted value and the tested value is over 10%
+148,qual set,0,qual set,Qual Set,0,other,,FALSE,,,,,,The difference is reasonable big as the difference is around 0.1 seconds which is big considering we&#39;re only dealing with a time of 2 seconds.
+149,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,2.01 seconds is not close enough to the values she got while performing the trials
+150,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,all of the results are larger than expected value
+151,other,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,the Time it took is not the close to the predicted value of period&#39;
+153,other,0,other,Other,0,other,,FALSE,,,,,,Her error seems to be systematic which means there may be some slight mistake or real-life physics effect that changed her measure a bit but it still works
+154,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,"I don&#39;t like how number one keeps on saying I&#39;m wrong. The data doesn&#39;t agree with the  prediction, because all of the results yield a greater period than predicted(though not by much). I&#39;d be able to say this with more certainty with more data points. This was likely due to air resistance, and maybe a few other tiny variables. The student might want to change her prediction based on these variables"
+155,qual set,0,other,Qual Set,0,qual set,,FALSE,,,,,,"There is definitely a systematic error in the procedure of the experiment, as neither the maximum or the minimum is within the expected value (the expected value is outside of the range of the data collected)."
+156,average,0,average,Average,0,average,,FALSE,,,,,,the difference in period was 2.01 to 2.276 average to too great to say that the data matches the prediction.
+157,other,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,2.01 is an outlier.
+159,other,0,other,Other,0,other,,FALSE,,,,,,it&#39;s close enough
+161,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,"The mean is 2.2, and with small deviation that likely does not cover the prediction of 2.01 with in the standard error. "
+162,qual set,0,qual set,Qual Set,0,dual,,FALSE,,,,,,Since the T averages are all above 2.01 the mean of them can&#39;t equal that
+163,other,0,other,Other,0,other,,FALSE,,,,,,I accepted the data because the error is very small. Its also a physical phenomenon so there is a lot of factors that can explain the slight difference in the observed values.
+165,qual set,0,other,Qual Set,0,uncertainty,,FALSE,,,,,,"This data is consistently off of the prediction. Considering that the time being measure is around 2 seconds, being off by .25ish seconds is quite a large amount. Therefore, I believe this data does not agree with the prediction."
+166,average,0,average,Average,0,average,,FALSE,,,,,,"The average of the data above is 2.096, which is greater than 2.01"
+167,average,0,average,Average,0,average,,FALSE,,,,,,The data is pretty close to the expectations. The mean of the experimental data is 2.09 which is very close to 2.01
+169,other,0,other,Other,0,average,,FALSE,,,,,,The difference is a little bit big
+170,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,The differences between the prediction and actual values are generally positive.
+172,uncertainty?,0,average,Uncertainty,0,average,,FALSE,,,,,,"The calculated average period was 2.096, which rounds up to 2.01 and probably is within the uncertainty."
+173,qual set,0,average,Qual Set,0,qual set,,FALSE,,,,,,"The calculated periods are all longer than 2.01, so that value is not a good average of the values measured in the experiment. "
+174,other,0,qual set,Other,0,qual set,,FALSE,,,,,,T are similar.
+175,other,0,other,Other,0,qual set,,FALSE,,,,,,They are similar
+177,percent error,0,uncertainty,Percent Error,0,percent error,,FALSE,,,,,,the error between 2 and ~2.3 is over 5%.
+179,average,0,average,Average,0,average,,FALSE,,,,,,The Average of the data is noticeably different from the predicted value from the equation.
+180,none,0,none,None,0,none,,FALSE,,,,,,...
+181,uncertainty,0,qual set,Dual,0,dual,,FALSE,,,,,,The data is too spread out to agree with a prediction of 2.01. The standard deviation is too high.
+182,qual set,0,qual set,Average,0,average,,FALSE,,,,,,"Just by looking at the trials, 2.01 is much lower than the average period"
+183,other,0,other,Other,0,none,,FALSE,,,,,,It doesn&#39;t look right
+184,qual set,0,average,Average,0,average,,FALSE,,,,,,The discrepancy between the predicted value and the average measured value is too great for the prediction to be supported by the data.
+185,other/uncertainty,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,"the deviation between each trial is not far off from one another, giving it a pretty accurate result in relation to the predicted time"
+186,average,0,other,Average,0,average,,FALSE,,,,,,The average T value is .086 off from her estimated value.
+187,uncertainty,0,average,Dual,0,average,,FALSE,,,,,,The mean of the trial is 2.276 and the range is between 2.23 and 2.31
+189,average,0,average,Average,0,average,,FALSE,,,,,,The average of the data is way higher than the predicted value.
+190,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,I calculated the average and standard error. It fits within these results. 
+191,percent error,0,percent error,Percent Error,0,percent error,,FALSE,,,,,,"I think the data agrees with the prdiction because the error is within 5%, which is a reasonable range"
+192,none,0,none,None,0,none,,FALSE,,,,,, 
+193,qual set,0,uncertainty,Uncertainty,0,dual,,FALSE,,,,,,"Trials 2,4 and 5 are close to the prediction but 1 and 3 have an uncertainty of above 0.28. "
+194,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,All measurements are bigger than the prediction
+195,other,0,qual set,Other,0,qual set,,FALSE,,,,,,The real results of the trial suggest that 2.01s is not a result that falls within expectations.
+196,uncertainty,0,qual set,Other,0,uncertainty,,FALSE,,,,,,I decided this because most of the values are not within range of at least +/-3 
+197,other,0,other,None,0,none,,FALSE,,,,,,Because it looks right
+201,average,0,averagte,Average,0,average,,FALSE,,,,,,"The average value should be 2.24, not 2.01"
+206,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,"It agrees because the mean is 2.096 and its uncertain is .02. If .02 is added to the mean, it passes 2.01, which means that it is with the expectation. "
+207,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,"The data does not agree because when calculating the standard deviation, 2.01 is two standard deviations away from the mean. "
+208,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,"2.01 does not fall within the uncertainty range of the data, given the mean and deviation"
+209,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,Their data tells us that the period of the pendulum is 2.24 with a standard error of 0.0843 if we calculate the average and standard error of the data.
+210,qual set/average,0,average,Dual,0,qual set,,FALSE,,,,,,None of the individual trials result in a time less than or equal to 2.01 seconds and the average is 2.10.
+211,none,0,none,None,0,none,,FALSE,,,,,,a
+212,qual set,0,other,Other,0,qual set,,FALSE,,,,,,the data is close enough to the time predicted to be seen as agreeing
+213,average,0,average,Average,0,average,,FALSE,,,,,,The average period from their experiments is not 2.01
+214,average,0,average,Average,0,average,,FALSE,,,,,,The average of the data is 2.096 s which is greater than 2.01
+215,average,0,average,Average,0,average,,FALSE,,,,,,"The average of the values is very, very close to 2.01s"
+216,qual set,0,average,Dual,0,dual,,FALSE,,,,,,The average of all the trials is higher than the predicted period. Not a single trial is close to the predicted value.
+217,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,2.01 is not in the range of mean +- standard error
+219,qual set,0,qual set,Qual Set,0,average,,FALSE,,,,,,"Although the data was very close to the expectation, all of the values were on one side of the expectation, meaning the expectation was most likely underestimated."
+220,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,"She was close, but since all her found values are above the prediction, I would say her prediction was wrong"
+222,qual set,0,percent error,Dual,0,percent error,,FALSE,,,,,,Because the are about a minimum of 0.21 off. I didnt calculate the percent error it but it seems like it will be above 15%
+223,average,0,average,Average,0,average,,FALSE,,,,,,The main reason why I made my decision was that I took the average of the 5 numbers and found it to be 2.096 seconds which is not close to the predicted number. 
+224,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,"The standard error of the set is ~0.05 sec, therefore 2.01sec is not reasonably within that range."
+225,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,Mean - 2.238 +- 0.07544. The given value is not within this 
+226,other,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,The numbers of every trial are off.
+227,other,0,other,Other,0,qual set,,FALSE,,,,,,The data is lose to 2.01
+228,uncertainty,0,uncertainty,Other,0,percent error,,FALSE,,,,,,The error (Around .25) is too large to be considered accurate.
+231,none,0,none,None,0,none,,FALSE,,,,,,none
+232,average,0,average,Average,0,average,,FALSE,,,,,,The average is not close to 2.01s.
+233,qual set,0,qual set,Other,0,other,,FALSE,,,,,,Their Estimated Value does not overlap with their expected period at all.
+234,average,0,average,Average,0,average,,FALSE,,,,,,The mean od the data doesn&#39;t match up with 2.01 s.
+235,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,the data are mostly larger than 2.01s
+236,average,0,average,Average,0,average,,FALSE,,,,,,2.01s seems to be close to the average of the five trials. 
+237,uncertainty,0,qual set,Qual Set,0,uncertainty,,FALSE,,,,,,"The period generally resonates around 2.0. Thus, 2.01 s is not statistically far from 2.0. We can conclude the data agrees with the prediction. "
+238,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,"Although there is a difference between 2.01 and the other numbers, the difference is still very slight."
+239,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,"The data shown above does not have a standard deviation that contains the expected time, thus the data does not agree with the expectation."
+240,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,The data agrees with the prediction since the data shows the period values to be around 2 and stating that it is equal to 2.01 is not a far off assumption
+242,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,2.01 is not within the error range of the mean 
+243,other,0,other,Other,0,qual set,,FALSE,,,,,,The data is too far off from 2.01s
+244,average,0,average,Average,0,average,,FALSE,,,,,,The average for the data is around 2.3 which is significantly different from the expected value of 2.01
+245,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,The data disagrees because the average period is 2.096 +- 0.019 seconds and calculating a t value with this hypothesis gives t=2.096-2.01 / sqrt(.019^2) which is 4.5 which is very unlikely
+247,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,The numbers are consistently above the predicted value by so much that it is incredibly unlikely that that data comes from that which contains 2.01 Seconds.
+248,uncertainty,0,uncertainty,Uncertainty,0,uncertainty,,FALSE,,,,,,"The data agrees with the expectation, even if the expected is lower than the average, because the expected is within the constraints of error. This error could be because ideal and consistent conditions aren&#39;t met every time. "
+249,average,0,average,Average,0,average,,FALSE,,,,,,The mean of the data is pretty far from 2.01
+250,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,Most of the results were higher than expected.
+252,average,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,"I said the data does not agree with the prediciton as all of their data hovers around the 2.25s. If there had been trouble with timing or some other human factor, the data would also show that by recording times lower than predicted. Yet, it is consistent data, albeit data which does not agree with the preditcion."
+253,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,All of the data are larger than expected so the data does not agree with the expectation.
+254,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,"THe numbers are very close to one another, but they are  not that close to the predicted value as well. It is fairly consistent but not accurate."
+256,average,0,average,Average,0,average,,FALSE,,,,,,The average for the data is above 2.01
+257,uncertainty,0,uncertainty,Dual,0,uncertainty,,FALSE,,,,,,"uncertainty is too great, for some reason 1.99 is closest but compared with the rest of the data it appears to be an outlier"
+260,qua set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,The smallest period is bigger than 2.01s.
+261,qual set,0,qual set,Qual Set,0,qual set,,FALSE,,,,,,All of the trials are consistently well over the expected time of 2.01  seconds. 3 out of 5 trials were over 2.10 seconds (&gt;4.3% difference)
+262,average,0,average,Average,0,average,,FALSE,,,,,,I took the average and it was not close to the calculated value
+264,qual set,0,dual,Dual,0,dual,,FALSE,,,,,,The data does not agree because it has low precision and the mean values differ significantly
+265,other,0,qual set,Other,0,qual set,,FALSE,,,,,,The data shows that the time for the phenomenon is greater than 2.01 seconds
+266, other,0,0,0,0,0,,FALSE,,,,,,"I simply think that it is impossible to tell whether the data agrees with the expectation, I think it&#39;s close enough to where human error may have taken effect into the experiment but at the same time the hypothesis may have simply been incorrect."
+268,none,0,0,0,0,0,,FALSE,,,,,,seemed short
+269,uncertainty,0,0,0,0,0,,FALSE,,,,,,Its is very close with very small standard devaition
+270,percent error,0,0,0,0,0,,FALSE,,,,,,"Falls beyond 1 standard deviation, % error of over 10%."
+271,qual set,0,0,0,0,0,,FALSE,,,,,,2.01 is too far off from some of the results obtained.
+272,average,0,0,0,0,0,,FALSE,,,,,,the mean of data and the predicted value are not so different 
+273,other,0,0,0,0,0,,FALSE,,,,,,"Frequency= 1/2pi*(sqroot(g/L) so since L does not change, the period is just the average of the trial times and the times and the average do not add up."
+274,0,0,0,0,0,0,,TRUE,,,,,,Their data is all higher than the predicted value and the error doesnt seem like it would include the predicted value. 
+275,0,0,0,0,0,0,,TRUE,,,,,,This data point isn&#39;t with the range of acceptable values that were measured during the experiment.
+276,0,0,0,0,0,0,,TRUE,,,,,,I got a t prime of 4 so the data does not agree
+277,0,0,0,0,0,0,,TRUE,,,,,,The mean of the period of the five trials is pretty close to the predicted times.
+279,0,0,0,0,0,0,,TRUE,,,,,,"All obtained values are well of the expected value, at least 10%"
+280,0,0,0,0,0,0,,TRUE,,,,,,The mean average is near 2.01 and the standard deviation is not far off.
+281,0,0,0,0,0,0,,TRUE,,,,,,Because the average value plus standard error (the range) does not include the predicted value.
+283,0,0,0,0,0,0,,TRUE,,,,,,The value of her prediction does not fall within one standard deviation of the mean.
+284,0,0,0,0,0,0,,TRUE,,,,,,The data does not agree with the expectation because the expected time for the phenomenon is 2.01s and the student got values of time to be all higher than that.
+285,0,0,0,0,0,0,,TRUE,,,,,,Using a one sample t test we get p value of 0.0109 which is very small.
+289,0,0,0,0,0,0,,TRUE,,,,,,"When counting about the difference by human error, this will be the expecting results. "
+290,0,0,0,0,0,0,,TRUE,,,,,,it agrees
+292,0,0,0,0,0,0,,TRUE,,,,,,There is a high uncertainty and the predicted period is within the range. 
+293,0,0,0,0,0,0,,TRUE,,,,,,bla
+294,0,0,0,0,0,0,,TRUE,,,,,,The average value of the periods measured (2.23 s) is much greater than the predicted. 
+295,0,0,0,0,0,0,,TRUE,,,,,,"The average of the data is about 2.2s, which is significantly different from his prediction."
+297,0,0,0,0,0,0,,TRUE,,,,,,"The magnitude of variation on the data is about 0.05, and the predicted value is very far from that. If I had more time, I would calculate standard deviation to establish error bars. "
+299,0,0,0,0,0,0,,TRUE,,,,,,"The average period of their experiment is 2.23 seconds, which is significantly different from 2.01 seconds."
+300,0,0,0,0,0,0,,TRUE,,,,,,The expected value is not within the range
+302,0,0,0,0,0,0,,TRUE,,,,,,It is not within the range of values. 
+303,0,0,0,0,0,0,,TRUE,,,,,,It is pretty close
+304,0,0,0,0,0,0,,TRUE,,,,,,idk
+305,0,0,0,0,0,0,,TRUE,,,,,,The average is 2.096 which is .086 higher than the expected or a difference of 4.3%. That is a relatively small difference which leads me to believe it supports the prediction.
+307,0,0,0,0,0,0,,TRUE,,,,,,The data centers more around 2.1 rather than 2.01
+308,0,0,0,0,0,0,,TRUE,,,,,,"Using t&#39; to compare the answers (with and uncertainty of 0 for the expected value), t&#39; is 2, so they could be the same, but more likely they are different."
+310,0,0,0,0,0,0,,TRUE,,,,,,the average is 2.238
+311,0,0,0,0,0,0,,TRUE,,,,,,Because even the smallest data is larger than what she expected 
+312,0,0,0,0,0,0,,TRUE,,,,,,Since both the mean and the median are greater than the predicted period.
+313,0,0,0,0,0,0,,TRUE,,,,,,System has error
+316,0,0,0,0,0,0,,TRUE,,,,,,"I found that the average time based on the data set is 2.096 s +/- 0.019. Thus 2.01 does not fall in this range, so it does agree with the expectation."
+318,0,0,0,0,0,0,,TRUE,,,,,,"The data average (did not calculate), is already going to be above 2.01s, with no set of data that is below the expected value."
+319,0,0,0,0,0,0,,TRUE,,,,,,the values are consistently about 2.20 sec.
+320,0,0,0,0,0,0,,TRUE,,,,,,the average is not lose to 2.01
+321,0,0,0,0,0,0,,TRUE,,,,,,"Only trail 4 is close to 2.01, the rests are all larger than prediction."
+322,0,0,0,0,0,0,,TRUE,,,,,,"The mean is 2.096 and has a standard deviation of 0.04. Although the expected value is outside the expected, experimental values cannot always account for all variables that may effect the experiment. So since 2.01 is relatively close, I would say the data agrees with the expectation. "
+323,0,0,0,0,0,0,,TRUE,,,,,,Each trial results in a period that is consistently over the predicted value by at least 10%. The average value across the experiments is noticeably greater than the predicted value.
+324,0,0,0,0,0,0,,TRUE,,,,,,the average is 2.096 not 2.01
+326,0,0,0,0,0,0,,TRUE,,,,,,"The data does not agree as the mean is far off the expected value, and would not reach with the uncertainty accounted for."
+328,0,0,0,0,0,0,,TRUE,,,,,,the mean is exactly what the expected time was
+329,0,0,0,0,0,0,,TRUE,,,,,,"The expected mean is more than one standard deviation away from the experimental mean, and is not within the standard error range."
+330,0,0,0,0,0,0,,TRUE,,,,,,t test shows that it is not match
+333,0,0,0,0,0,0,,TRUE,,,,,,"The average values for the data are closer to 2.2 or 2.3 seconds, so either of those two predictions would be more accurate."
+334,0,0,0,0,0,0,,TRUE,,,,,,"Based on my calculations the standard error is 0.02. The mean minus the standard error would be much higher than 2.01, so the data does not agree with the prediction."
+335,0,0,0,0,0,0,,TRUE,,,,,,Hh
+336,0,0,0,0,0,0,,TRUE,,,,,,the measurements are close to predicted value
+338,0,0,0,0,0,0,,TRUE,,,,,,"2.01 s is lower than the lowest value she measured, so it would be a poor prediction. The prediction should be based on the average which is significantly higher and in the range of the data values she measured."
+339,0,0,0,0,0,0,,TRUE,,,,,,The average time for these five experiments is larger than the expected value.
+340,0,0,0,0,0,0,,TRUE,,,,,,The data doesn&#39;t even go by the concluded period.
+342,0,0,0,0,0,0,,TRUE,,,,,,The average is larger than 2.01 and overall the three trials out of 5 have very different T compared to 2.01. All of them are also larger than 2.01. 
+345,0,0,0,0,0,0,,TRUE,,,,,,t value is large
+346,0,0,0,0,0,0,,TRUE,,,,,,Data range not around 2.01
+347,0,0,0,0,0,0,,TRUE,,,,,,"The average of those five trials of periods is 2.28 s so clearly the prediction of 2.01 s was off. With such a short range as well of 2.24 to 2.31 - 2.01, the prediction, does not even fall close within that."
+348,0,0,0,0,0,0,,TRUE,,,,,,the range doesn&#39;t cover 2.01 the middle 2/3
+349,0,0,0,0,0,0,,TRUE,,,,,,"The time 2.01 is outside of their window of previous trials, the average trial time was closer to 2.09"
+350,0,0,0,0,0,0,,TRUE,,,,,,"The data can go either way, and end up agreeing or disagreeing with the prediction. The best estimate of the true value is 2.238 +- 0.105, using the mean and standard error. Although their prediction of 2.01 isn&#39;t in the first standard deviation, it is close enough to the second standard deviation to leave uncertainty on whether the data does or does not match the prediction."
+352,0,0,0,0,0,0,,TRUE,,,,,,The prediction had a similar value
+353,0,0,0,0,0,0,,TRUE,,,,,,"I said the data doesn&#39;t agree with the prediction, because the predication is 2.01, but for all five trails, the data is around 2.3. so they are not match up. "
+354,0,0,0,0,0,0,,TRUE,,,,,,The mean and standard error indicate otherwise.
+355,0,0,0,0,0,0,,TRUE,,,,,,As when you take the average of the pendulum along with error it is possible for the Pendulum to have a period of 2.01s
+357,0,0,0,0,0,0,,TRUE,,,,,,2.01 is not in the range of data points
+358,0,0,0,0,0,0,,TRUE,,,,,,"their data is slightly higher than the prediction and does not dip down below 2 seconds. Therefore, it does not agree with the prediction"
+360,0,0,0,0,0,0,,TRUE,,,,,,"All of the times measured are on one side of the expected result, therefore, it does not compare well."
+361,0,0,0,0,0,0,,TRUE,,,,,,"The student was unable to record a value under 2.01 secs but they recorded 5 values over 2.01 seconds. With this, it is impossible to get a standard error that allows 2.01 seconds to be in its range, meaning that the data cannot agree with their expectation when looking at it through standard erorr and mean."
+364,0,0,0,0,0,0,,TRUE,,,,,,The pendulum agrees with the period 
+365,0,0,0,0,0,0,,TRUE,,,,,,too big of a difference between the experimental and predicted values
+366,0,0,0,0,0,0,,TRUE,,,,,,"The data is close enough to be reasonably within 2.01 seconds.  Yes, the data is not a perfect fit to 2.01, but with reasonable sources of error, it is."
+367,0,0,0,0,0,0,,TRUE,,,,,,"I calculated the mean and standard error for these values. I got the uncertainty to be 2.276 plus or minus .02013, putting the actual range of the period to be from 2.25587 to 2.29612 seconds. I think this is too big of a difference to the predicted value of 2.01 to agree with the prediction."
+368,0,0,0,0,0,0,,TRUE,,,,,,The percent uncertainty is only 4% so id say it is a close enough value 
+370,0,0,0,0,0,0,,TRUE,,,,,,"The average is 2.238, with an uncertainty of 0.01. The value of 2.01 is outside this range."
+371,0,0,0,0,0,0,,TRUE,,,,,,the period is a lot bigger in the trials than it is in the predicted results
+372,0,0,0,0,0,0,,TRUE,,,,,,Most of the data is 0.1 to 0.45 sec away from the predicted period. Only one datapoint is within 0.05 sec.
+373,0,0,0,0,0,0,,TRUE,,,,,,If we take the average of all of the trial we would get a value between 2.2 and 2.3 which is a little far off from the expected value of 2.01
+374,0,0,0,0,0,0,,TRUE,,,,,,All the data that the student collected is larger that 2.01s.
+375,0,0,0,0,0,0,,TRUE,,,,,,"Average is 2.096, rounded up to 2.10. This is 0.09 away from 2.01. "
+376,0,0,0,0,0,0,,TRUE,,,,,,"The average time for the data is 2.096.  Therefore, the data is not off by that much from the expected time for the phenomenon.  The standard deviation is only 0.045, and the standard error is 0.02, which is not that large."
+377,0,0,0,0,0,0,,TRUE,,,,,,Because the percent error is less than 5%.
+378,0,0,0,0,0,0,,TRUE,,,,,,yes
+379,0,0,0,0,0,0,,TRUE,,,,,,"I chose that the data does not agree because while the results are similar, they are consistently above the expected result, thus, either the expected result was wrong or something done while recording/testing was faulty. "
+380,0,0,0,0,0,0,,TRUE,,,,,,Only one point goes even near the prediction and there arent things offsetting each other to make it that
+381,0,0,0,0,0,0,,TRUE,,,,,,The mean value of the data is 2.238.
+385,0,0,0,0,0,0,,TRUE,,,,,,All data taken was greater than the expected value
+386,0,0,0,0,0,0,,TRUE,,,,,,The average of the 5 trials is far away from the expected value
+387,0,0,0,0,0,0,,TRUE,,,,,,"The standard deviation of the data is 0.0428, which is quite small. So the prediction is correct."
+388,0,0,0,0,0,0,,TRUE,,,,,,"standard error is 0.04, which is only 4 % so is small"
+389,0,0,0,0,0,0,,TRUE,,,,,,the average number of data above is 2.096 and the percent error is about 4% which is not very high. 
+391,0,0,0,0,0,0,,TRUE,,,,,,"The mean is 2.096, which isn&#39;t exactly 2.01. "
+393,0,0,0,0,0,0,,TRUE,,,,,,It is not within the range or standard error
+394,0,0,0,0,0,0,,TRUE,,,,,, 
+397,0,0,0,0,0,0,,TRUE,,,,,,"Without much other information, I found the mean and determined that it was 10% above the prediction"
+398,0,0,0,0,0,0,,TRUE,,,,,,The average for the trials is 2.09.
+399,0,0,0,0,0,0,,TRUE,,,,,,2.01 does not lie in between the range of uncertainty from the mean. it is below.
+401,0,0,0,0,0,0,,TRUE,,,,,,"There is one value below the prediction by only .02 s, with the other 4 above as much as .45s"
+402,0,0,0,0,0,0,,TRUE,,,,,,By just looking at the data
+404,0,0,0,0,0,0,,TRUE,,,,,,"The average is about 2.27, which is much larger than the 2.1 they predicted. They should use values like mean to do the prediction."
+405,0,0,0,0,0,0,,TRUE,,,,,,"Although they are all about a tenth away from 2.01,  the data shows a general trend of being around 2. It is very possible that the extra time is due to human error. "
+406,0,0,0,0,0,0,,TRUE,,,,,,We know due to the data that the expected calculation wasn&#39;t to far off. There was no mistake made.
+407,0,0,0,0,0,0,,TRUE,,,,,,The prediction falls outside the mean minus a standard error 
+408,0,0,0,0,0,0,,TRUE,,,,,,The data agrees with the prediction.
+409,0,0,0,0,0,0,,TRUE,,,,,,Because the difference has been more than 10% of the expected data. 
+410,0,0,0,0,0,0,,TRUE,,,,,,The values are very close with some uncertainty so it would be close to 2.01
+411,0,0,0,0,0,0,,TRUE,,,,,,"Average time is 2.096 s. Standard deviation is about 0.045 (range/2) and standard error is about 0.0201. Uncertainty interval is (2.076 s, 2.116 s). 2.01 s does not lie in the interval."
+413,0,0,0,0,0,0,,TRUE,,,,,,The predicted period of the pendulum is very far off from the actual average period of the pendulum.
+414,0,0,0,0,0,0,,TRUE,,,,,,//
+416,0,0,0,0,0,0,,TRUE,,,,,,"Although the differences between mean value of the data and the expection is only 0.086, and the percentage difference is relatively small. However, I think it is not very accurate to predict detail outcome of an experiment since there are many errors can be introduced to make the result vary vastly from the prediction thus causing fause conclusion. "
+417,0,0,0,0,0,0,,TRUE,,,,,,"I calculate t prime of the data, and it is 0.925, which is smaller than 1."
+418,0,0,0,0,0,0,,TRUE,,,,,,"0.30 is too much of error to be considered the same; therefore, this prediction is not accurate."
+419,0,0,0,0,0,0,,TRUE,,,,,,The percent error is an acceptable amount
+420,0,0,0,0,0,0,,TRUE,,,,,,The average is very close to the prediction.
+421,0,0,0,0,0,0,,TRUE,,,,,,"From all their data, the prediction value is not even in the average range."
+423,0,0,0,0,0,0,,TRUE,,,,,,The period of the pendulum falls between the range of values obtained from the trials.
+425,0,0,0,0,0,0,,TRUE,,,,,,"I don&#39;t think the data agrees with the expectation because the average value calculated is above the expected value, and the uncertainties are also not within that expectation either."
+426,0,0,0,0,0,0,,TRUE,,,,,,The average of the values obtained are within 95 percent of the value 2.01 seconds.
+428,0,0,0,0,0,0,,TRUE,,,,,,The t&#39; value is greater than 2 so it is highly unlikely that their data agrees. 
+429,0,0,0,0,0,0,,TRUE,,,,,,"The data is within standard error for an experiment, thus his data is valid and agrees with the expectations"
+430,0,0,0,0,0,0,,TRUE,,,,,,because the average is similar to 2
+431,0,0,0,0,0,0,,TRUE,,,,,,"Given that the lowest value she got through her 5 trials was 2.04s and her predicted value was 2.01s, none of the data she got coincides with the prediction so it does not agree."
+432,0,0,0,0,0,0,,TRUE,,,,,,"Because the numbers are so small, being off by a few milliseconds is huge."
+433,0,0,0,0,0,0,,TRUE,,,,,,"The t&#39; value is less than one between the data mean and 2.01s, which means they are likely to have the same parent distribution. "
+435,0,0,0,0,0,0,,TRUE,,,,,,The data does not agree with the prediction as the data including its uncertainty does not cover the prediction
+436,0,0,0,0,0,0,,TRUE,,,,,,"Since the period is around the same throughout the five different trials, with only about .1 decimal off, the experiment yields valid data."
+437,0,0,0,0,0,0,,TRUE,,,,,,n/a
+438,0,0,0,0,0,0,,TRUE,,,,,,"The mean of the student&#39;s data is not close to 2.01, so it doesn&#39;t agree with the expected value."
+439,0,0,0,0,0,0,,TRUE,,,,,,they are similar results
+440,0,0,0,0,0,0,,TRUE,,,,,,The average T of the data collected is 2.096s which is not very different from the predicted time of 2.01s which is percentage difference of 4.27% which is a very small number 
+442,0,0,0,0,0,0,,TRUE,,,,,,"The data is generally higher than her prediction, which could be due to external causes."
+443,0,0,0,0,0,0,,TRUE,,,,,,The average is around 2.01 so I answered yes
+444,0,0,0,0,0,0,,TRUE,,,,,,The average is too high to correspond with the prediction
+445,0,0,0,0,0,0,,TRUE,,,,,,Not anywhere in range
+446,0,0,0,0,0,0,,TRUE,,,,,,I chose this decision because the mean value of the period is relatively close enough to the predicted value (excusing human and trial) error that I believe the data agrees with the prediction.
+447,0,0,0,0,0,0,,TRUE,,,,,,The average is a lot higher than the expected value.
+448,0,0,0,0,0,0,,TRUE,,,,,,The average values between the trials is much different than the expected pendulum period.
+449,0,0,0,0,0,0,,TRUE,,,,,,They predicted that it would be 2.01. While not too far off. Their prediction is still incorrect.
+450,0,0,0,0,0,0,,TRUE,,,,,,The student&#39;s estimate isn&#39;t within one standard deviation away from the mean of the data.
+451,0,0,0,0,0,0,,TRUE,,,,,,I think the data agrees with the expectations because the time for the phenomenon to occur is consistent for each trial.
+452,0,0,0,0,0,0,,TRUE,,,,,,"The mean is greater than the predicted value, but it is close to the actual value."
+453,0,0,0,0,0,0,,TRUE,,,,,,"The mean of the period is 2.238 and its standard deviation is 0.16869. The data does not agree with the prediction, because 2.01s is not within one standard deviation with the mean."
+454,0,0,0,0,0,0,,TRUE,,,,,,"The average of the data is similar enough to the prediction, very small error"
+457,0,0,0,0,0,0,,TRUE,,,,,,mean near expected and standard error small
+458,0,0,0,0,0,0,,TRUE,,,,,,Moderately high percentage error.
+459,0,0,0,0,0,0,,TRUE,,,,,,I said the data does not agree because every number is within the range of 2.2-2.3 seconds and 2.01 seconds is about 0.2 seconds off of this range.
+460,0,0,0,0,0,0,,TRUE,,,,,,Because the average of five data above is 2.24 and the standard error is 0.084. 2.01 is not in the range so I think it does not agree with the prediction. 
+461,0,0,0,0,0,0,,TRUE,,,,,,Because the period they predicted is not even in the range of the measured values.
+462,0,0,0,0,0,0,,TRUE,,,,,,The mean = (2.06 + 2.13 + 2.04 + 2.13 + 2.12)/5 = 2.096
+,,,,,,,,,,,,,,The standard deviation = (2.13 - 2.04)/2 = .045
+,,,,,,,,,,,,,,The standard error = .045/sqrt(5) = .0201
+,,,,,,,,,,,,,,"Therefore, the data when accounting for uncertainty is a period of 2.096 +/- .0201 seconds, which even on the low end does not account for the prediction of 2.01 seconds."
+463,0,0,0,0,0,0,,TRUE,,,,,,The data does not agree because it is not precise as none of the periods were 2.01 seconds
+464,0,0,0,0,0,0,,TRUE,,,,,,All of the values are above the estimate so they are slightly off. They should see what factors change this number.
+465,0,0,0,0,0,0,,TRUE,,,,,,The data tended to show a higher interval between each phenomenon. Not to mention the intervals varied. 
+466,0,0,0,0,0,0,,TRUE,,,,,,"I found the mean and standard deviation of the data, which were 2.276 and .0427 respectively. Since 2.01 is more than 2 SD&#39;s away from the mean- about 5 or 6- the data does not agree."
+467,0,0,0,0,0,0,,TRUE,,,,,,Just by looking at the mean value and the standard error the measurements do not match up with their prediction.
+468,0,0,0,0,0,0,,TRUE,,,,,,The various period values are close to 2.01s
+469,0,0,0,0,0,0,,TRUE,,,,,,"Just by looking at what they got as some of the periods, you can see that it has been bigger than 2.04 s"
+470,0,0,0,0,0,0,,TRUE,,,,,,average was 2.09
+471,0,0,0,0,0,0,,TRUE,,,,,,When you take the average of the periods you get 2.25 so the period would be closer to that. 
+473,0,0,0,0,0,0,,TRUE,,,,,,There could be error introduceed elsewhere
+476,0,0,0,0,0,0,,TRUE,,,,,,"Calculating the mean and uncertainty, we get 2.096 +/- .02, and 2.01 does not fall within that range. "
+477,0,0,0,0,0,0,,TRUE,,,,,,"The data is in a range above the prediction. Therefore, the data does not agree with the prediction."
+478,0,0,0,0,0,0,,TRUE,,,,,,the value of predicted period of pendulum does not lie within two standard errors of the mean value.
+480,0,0,0,0,0,0,,TRUE,,,,,,The value is lower than the average.
+481,0,0,0,0,0,0,,TRUE,,,,,,They are pretty close
+482,0,0,0,0,0,0,,TRUE,,,,,,average data within 1 standard error
+483,0,0,0,0,0,0,,TRUE,,,,,,"The calculated mean and uncertainty is 2.09 plus or minus 0.02, which does not include 2.01."
+484,0,0,0,0,0,0,,TRUE,,,,,,"None of the values they found were 2.01s, and the average was 2.238s, which is quite far from 2.01s."
+485,0,0,0,0,0,0,,TRUE,,,,,,"I think the number of Trial 1,2,3,5 are too large than the prediction."
+486,0,0,0,0,0,0,,TRUE,,,,,,It is too far away from 2.01 for it to agree.
+488,0,0,0,0,0,0,,TRUE,,,,,,"After calculating the mean and standard error of the data the student obtained, 2.01 seconds does not fall within that distribution"
+489,0,0,0,0,0,0,,TRUE,,,,,,The data is precise in comparison to each other but is not accurate with the expectation
+491,0,0,0,0,0,0,,TRUE,,,,,,2.01 is close to the experimental values. 
+492,0,0,0,0,0,0,,TRUE,,,,,,1
+493,0,0,0,0,0,0,,TRUE,,,,,,"The calculated mean was 2.238 with a standard error of 0.1051, so 2.1 falls very low within this calculated range"
+494,0,0,0,0,0,0,,TRUE,,,,,,Most of the numbers are very bigger than 2.01s. Only one time is very close to 2.01 while 4 of the numbers are not.
+495,0,0,0,0,0,0,,TRUE,,,,,,I manually calculated the expected period using the period of a simple pendulum equation and it is very close to the prediction.
+496,0,0,0,0,0,0,,TRUE,,,,,,All experimental values are out of the range of the expected value
+498,0,0,0,0,0,0,,TRUE,,,,,,I said it does agree with the prediction because the prediction is within the measured data
+499,0,0,0,0,0,0,,TRUE,,,,,,I calculated the mean and then standard deviation to also attain the standard error. Subtracting and adding the standard error to the mean yielded a range from 2.07 to 2.11 and the predicted value falls out of this range.
+501,0,0,0,0,0,0,,TRUE,,,,,,The average value and standard deviation is unrealistic.
+502,0,0,0,0,0,0,,TRUE,,,,,,I do think the data agrees with the prediction that the pendulum swing should come out to be around 2.1
+503,0,0,0,0,0,0,,TRUE,,,,,,None
+504,0,0,0,0,0,0,,TRUE,,,,,,The predicted would be the average of the trials which is higher than 2.01.
+505,0,0,0,0,0,0,,TRUE,,,,,,"2.01 is quite close to the average value, 2.09."
+506,0,0,0,0,0,0,,TRUE,,,,,,The data shows that 2.01s falls outside the window of measures values
